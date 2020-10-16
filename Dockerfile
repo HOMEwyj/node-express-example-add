@@ -1,4 +1,4 @@
-FROM coding-public-docker.pkg.coding.net/public/docker/nodejs:8
+FROM 180.76.52.98/public/node:8
 
 WORKDIR /usr/src/app
 
